@@ -1,2 +1,2 @@
-# VitualThreads
+# VirtualThreads
 Hakuna Matata
